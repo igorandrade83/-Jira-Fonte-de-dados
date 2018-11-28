@@ -1,0 +1,26 @@
+{
+  "cells": [
+    {
+      "type": "basic.Rect",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "angle": 0,
+      "id": "paperCell",
+      "runtimeClass": "cronos.widgets.joint.uml.Paper",
+      "async": {
+        "batchSize": 500
+      },
+      "z": 1,
+      "namespace": "diagram.teste",
+      "attrs": {}
+    }
+  ],
+  "selectedGroup": "",
+  "groups": []
+}
